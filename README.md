@@ -1,7 +1,7 @@
 # finalCapstone
 second capstone project for HyperionDev
 
-Project Description 
+Project Description
 
 The final capstone project is a task management application that allows users to manage their tasks, track progress, and generate reports. It is designed to help individuals and organizations streamline their workflow and stay on top of their daily tasks. The application is built using Python programming language and utilizes file input/output operations to store and retrieve user and task data.
 Table of Contents
